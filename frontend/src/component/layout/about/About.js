@@ -17,7 +17,7 @@ const About = () => {
 
         <div>
           <div>
-            <Typography>Karan Bora</Typography>
+            <Typography>Karan Sarda</Typography>
             <Button onClick={visitInstagram} color="primary">
               Visit Instagram
             </Button>

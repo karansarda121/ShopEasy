@@ -18,9 +18,9 @@ const Footer = () => {
         </div>
         <div className='rightFooter'>
             <h4>Follow Us</h4>
-            <a href='https://www.chess.com/home' target='blank'>Instagram</a>
-            <a href='https://www.chess.com/home' target='blank'>Facebook</a>
-            <a href='https://www.chess.com/home' target='blank'>Youtube</a>
+            <a href='https://www.instagram.com/accounts/login/?hl=en' target='blank'>Instagram</a>
+            <a href='https://www.facebook.com/' target='blank'>Facebook</a>
+            <a href='https://www.youtube.com/' target='blank'>Youtube</a>
         </div>
     </footer>
   )
